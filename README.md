@@ -1,4 +1,4 @@
-# 🍌 Clasificación de Banano - Aplicación Flutter con IA
+# 🍌 Clasificación de Banano
 
 Una aplicación móvil desarrollada en **Flutter** que utiliza **inteligencia artificial** para clasificar automáticamente el tipo y estado de madurez de los bananos mediante fotografías.
 
